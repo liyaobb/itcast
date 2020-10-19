@@ -3,6 +3,8 @@ package com.iheima.pojo;
 public class User {
    private String username;
    private String password;
+   // 新增
+   private int age;
 
     public String getUsername() {
         return username;
